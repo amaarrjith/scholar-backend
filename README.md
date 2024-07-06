@@ -1,1 +1,1 @@
-# scholar-backend
+backend for scholar web application
